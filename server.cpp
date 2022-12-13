@@ -8,7 +8,7 @@
 #include <sys/socket.h>
 #include <sys/un.h>
 #include <netinet/in.h>
-
+using namespace std;
 #define SIM_LENGTH 10 
 #define PORT 1227 
 void clean_up(int cond, int *sock)
