@@ -1,4 +1,5 @@
 #1: we compiled the programs and understand what they do,how they function and operate.
 #2: when we run both the client and serve side programs and if the client send connection the server established the connection and when there is no client it will show error naming channel.
 #3: when we run ifconfig command it shows the ip address,mask,inet address,broadcast where we are working on our computer.
-#4:
+#4: if we gave our computer addres to the client then the server and the client found on the same host so they communicate quikly.
+#5:
